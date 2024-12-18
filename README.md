@@ -17,7 +17,7 @@ Then I filtered to see how many of those 120 artists were from the United States
 Next I filtered to see how many artists were from other countries (41), then created a bar chart showing how many artists were from the United States and the other countries.  The use of a line plot was too chaotic for analysis. 
 
 Conclusion
-Out of 120 best selling music artists, 79 are from the United States while 20  are from the United  Kingdom. Canada is in third with approximately 5 best selling artists with all the other countries less than 5.  There are also 3 countries that are combined with the United States (US & UK, UK & US, Canada & US respectfully) in the bar graph. 
+Out of 120 best selling music artists, 79 are from the United States while 20  are from the United  Kingdom. Canada is in third with approximately 5 best selling artists with all the other countries less than 5.  There are also 3 countries that are combined with the United States (US & UK, UK & US, Canada & US, United Kingdom & Australia respectfully) in the bar graph. 
 
 Summary
 In conclusion, based on this best selling artist list, the majority of them are from the United States (approximately 65%). American popular music began in the 1840s (prior to that popular music was brought over from the UK and other countries) so it would seem most likely, based on this finding, that the majority of best selling artists would be from the United States. 
